@@ -1,0 +1,426 @@
+﻿zone_id,localite,region,latitude,longitude,altitude_m,pente_pct,distance_plan_eau_m,type_sol,occupation_sol,taux_impermeabilisation_pct,densite_pop_hab_km2,reseau_assainissement,profondeur_nappe_m,nb_inondations_2005_2014
+Z0001,Pikine,Dakar,14.77455,-17.39166,0.5,0.43,251,Hydromorphe,Agricole,25.0,276,Partiel,2.5,2
+Z0002,Pikine,Dakar,14.75951,-17.40893,6.2,0.87,1305,Sableux,Urbain lâche,37.1,6555,Partiel,2.4,0
+Z0003,Pikine,Dakar,14.77572,-17.39278,3.0,1.59,1457,Argilo-sableux,Agricole,27.4,334,Partiel,3.8,0
+Z0004,Pikine,Dakar,14.72863,-17.37883,8.7,2.7,1343,Hydromorphe,Zone humide (Niayes/bas-fond),45.9,307,Complet,2.0,1
+Z0005,Pikine,Dakar,14.73964,-17.39799,8.7,0.81,821,Sableux,Urbain lâche,34.0,4799,Partiel,4.6,1
+Z0006,Pikine,Dakar,14.75455,-17.37609,0.5,0.07,3500,Sableux,Urbain lâche,48.4,7965,Partiel,2.6,1
+Z0007,Pikine,Dakar,14.74502,-17.39111,11.7,0.52,352,Sableux,Urbain dense,67.0,28483,Partiel,1.9,0
+Z0008,Pikine,Dakar,14.76671,-17.41574,13.0,0.41,192,Argileux,Urbain lâche,48.3,3344,Aucun,4.5,2
+Z0009,Pikine,Dakar,14.74164,-17.36738,14.9,0.55,918,Sableux,Agricole,20.0,172,Aucun,3.4,1
+Z0010,Pikine,Dakar,14.74847,-17.38261,10.4,0.18,446,Hydromorphe,Zone humide (Niayes/bas-fond),16.2,249,Aucun,1.7,1
+Z0011,Pikine,Dakar,14.76818,-17.41133,4.4,0.79,1295,Sableux,Urbain lâche,47.3,3914,Aucun,3.0,3
+Z0012,Pikine,Dakar,14.75383,-17.39262,6.5,1.11,231,Argilo-sableux,Urbain lâche,45.3,7204,Partiel,3.0,1
+Z0013,Pikine,Dakar,14.74823,-17.37753,6.1,0.1,771,Hydromorphe,Zone humide (Niayes/bas-fond),13.1,402,Partiel,2.2,6
+Z0014,Pikine,Dakar,14.76448,-17.37771,0.5,1.09,3234,Argileux,Urbain dense,75.5,11064,Aucun,1.6,10
+Z0015,Guediawaye,Dakar,14.76866,-17.38819,4.1,1.83,351,Sableux,Urbain lâche,58.3,4558,Aucun,3.6,3
+Z0016,Guédiawaye,Dakar,14.76056,-17.40758,6.9,0.38,1370,Latéritique,Urbain dense,94.4,17895,Aucun,2.7,7
+Z0017,Guédiawaye,Dakar,14.75545,-17.41062,11.1,2.29,228,Hydromorphe,Urbain dense,62.0,18896,Partiel,1.6,3
+Z0018,Guediawaye,Dakar,14.78082,-17.41059,8.6,0.45,1812,Argilo-sableux,Urbain lâche,61.6,3356,Partiel,5.4,1
+Z0019,Guédiawaye,Dakar,14.77785,-17.3953,9.2,0.39,541,Hydromorphe,Zone humide (Niayes/bas-fond),21.5,307,Partiel,0.2,6
+Z0020,Guediawaye,Dakar,14.78576,-17.42724,11.7,1.51,1411,Latéritique,Urbain dense,88.5,16319,Complet,,1
+Z0021,Guediawaye,Dakar,14.79981,-17.39885,4.0,0.17,746,Hydromorphe,Urbain lâche,38.1,11581,Aucun,3.4,4
+Z0022,Guédiawaye,Dakar,14.76631,-17.37236,11.4,1.48,1122,Latéritique,Urbain lâche,56.2,8157,Partiel,3.6,2
+Z0023,Guediawaye,Dakar,14.76538,-17.39159,8.0,0.13,620,Hydromorphe,Urbain dense,79.1,15289,Aucun,3.2,10
+Z0024,Guédiawaye,Dakar,14.77543,-17.3872,12.6,0.06,1117,Hydromorphe,Urbain dense,97.8,20401,Aucun,4.5,6
+Z0025,Guédiawaye,Dakar,14.79139,-17.38992,0.5,0.52,597,Argilo-sableux,Végétation naturelle,0.0,304,Complet,1.8,3
+Z0026,Guédiawaye,Dakar,14.77695,-17.3986,5.7,1.63,839,Sableux,Urbain lâche,45.0,7996,Complet,3.7,1
+Z0027,Guédiawaye,Dakar,14.77626,-17.3964,10.8,0.43,839,Hydromorphe,Zone humide (Niayes/bas-fond),8.5,272,Aucun,1.3,2
+Z0028,Keur Massar,Dakar,14.78862,-17.30674,5.3,0.36,371,Argilo-sableux,Urbain lâche,33.3,5045,Aucun,2.9,3
+Z0029,Keur-Massar,Dakar,14.77624,-17.33414,9.5,1.37,274,Sableux,Urbain dense,80.8,12474,Partiel,3.9,2
+Z0030,Keur Massar,Dakar,14.79713,-17.30447,3.5,1.47,516,Sableux,Urbain dense,79.7,16654,Partiel,2.5,3
+Z0031,Keur Massar,Dakar,14.79216,-17.29871,7.9,1.78,94,Argileux,Urbain dense,81.1,8099,Complet,2.8,3
+Z0032,Keur Massar,Dakar,14.78615,-17.30948,9.3,0.19,507,Hydromorphe,Urbain dense,81.5,10280,Aucun,3.8,9
+Z0033,Keur-Massar,Dakar,14.76553,-17.30636,0.8,0.45,476,Sableux,Urbain dense,68.4,10091,Partiel,,5
+Z0034,Keur Massar,Dakar,14.80016,-17.32576,9.8,0.19,82,Hydromorphe,Zone humide (Niayes/bas-fond),36.7,127,Partiel,0.2,10
+Z0035,Keur Massar,Dakar,14.77703,-17.30544,10.3,0.08,666,Argilo-sableux,Urbain dense,90.8,19050,Aucun,2.6,6
+Z0036,Keur Massar,Dakar,14.78153,-17.31773,12.6,0.32,398,Hydromorphe,Zone humide (Niayes/bas-fond),23.0,219,Aucun,0.4,5
+Z0037,Keur Massar,Dakar,14.77812,-17.33691,13.0,0.23,187,Sableux,Urbain dense,78.8,14330,Partiel,4.2,0
+Z0038,Keur Massar,Dakar,14.80449,-17.30964,14.9,0.79,1001,Argilo-sableux,Urbain dense,66.5,11157,Aucun,2.4,0
+Z0039,Keur Massar,Dakar,14.77203,-17.29852,10.2,0.66,1921,Hydromorphe,Zone humide (Niayes/bas-fond),34.9,160,Aucun,1.4,5
+Z0040,Yeumbeul,Dakar,14.78486,-17.3463,13.9,0.89,191,Hydromorphe,Urbain dense,88.9,25243,Partiel,4.2,2
+Z0041,Yeumbeul,Dakar,14.79585,-17.33945,2.7,0.22,193,Hydromorphe,Végétation naturelle,0.0,307,Aucun,1.6,6
+Z0042,Yeumbeul,Dakar,14.75422,-17.34849,11.4,0.6,732,Sableux,Urbain dense,64.7,8527,Partiel,4.1,2
+Z0043,Yeumbeul,Dakar,14.78181,-17.33491,6.9,0.83,375,Sableux,Urbain dense,74.6,17413,Aucun,3.0,3
+Z0044,Yeumbeul,Dakar,14.77663,-17.32142,3.8,1.12,751,Sableux,Urbain dense,92.8,9671,Aucun,3.1,4
+Z0045,Yeumbeul,Dakar,14.79508,-17.34858,0.5,0.27,372,Hydromorphe,Zone humide (Niayes/bas-fond),30.2,152,Partiel,0.6,10
+Z0046,Yeumbeul,Dakar,14.76935,-17.34909,10.0,0.09,789,Hydromorphe,Végétation naturelle,12.3,141,Aucun,5.0,0
+Z0047,Yeumbeul,Dakar,14.76226,-17.34898,7.5,0.43,331,Latéritique,Urbain dense,86.5,14003,Partiel,3.3,6
+Z0048,Thiaroye,Dakar,14.72742,-17.37778,9.6,0.37,325,Sableux,Urbain dense,82.3,30649,Partiel,3.2,0
+Z0049,Thiaroye,Dakar,14.75564,-17.39595,8.1,0.96,1561,Argilo-sableux,Urbain dense,49.6,23454,Complet,3.4,0
+Z0050,Thiaroye,Dakar,14.73529,-17.38087,12.8,0.39,353,Hydromorphe,Urbain dense,96.7,13936,Complet,3.8,0
+Z0051,Thiaroye,Dakar,14.74142,-17.37071,1.5,1.77,567,Hydromorphe,Urbain lâche,51.2,3141,Complet,2.2,1
+Z0052,Thiaroye,Dakar,14.74302,-17.37482,5.7,1.4,303,Sableux,Urbain lâche,25.9,6751,Partiel,1.6,0
+Z0053,Thiaroye,Dakar,14.72921,-17.39377,0.5,1.18,1472,Sableux,Végétation naturelle,0.0,219,Partiel,5.5,0
+Z0054,Thiaroye,Dakar,14.75262,-17.3866,6.1,0.33,378,Latéritique,Urbain lâche,49.2,5113,,2.5,1
+Z0055,Thiaroye,Dakar,14.75453,-17.37926,2.8,0.18,455,Hydromorphe,Zone humide (Niayes/bas-fond),13.1,234,Complet,2.6,2
+Z0056,Thiaroye,Dakar,14.74129,-17.37287,5.1,1.64,2877,Sableux,Végétation naturelle,6.9,164,Aucun,2.5,1
+Z0057,Thiaroye,Dakar,14.73713,-17.37433,3.7,1.28,539,Hydromorphe,Urbain dense,71.2,13978,Aucun,1.6,9
+Z0058,Thiaroye,Dakar,14.75307,-17.36765,2.3,0.2,2691,Argilo-sableux,Urbain dense,79.1,17422,Partiel,2.5,2
+Z0059,Thiaroye,Dakar,14.75459,-17.36199,8.8,1.13,490,Hydromorphe,Urbain lâche,67.6,7129,Complet,5.2,1
+Z0060,Diamaguène,Dakar,14.7617,-17.35512,8.4,0.2,956,Sableux,Urbain dense,98.0,17824,Partiel,3.4,1
+Z0061,Diamaguène,Dakar,14.74612,-17.35924,2.9,1.96,434,Sableux,Urbain dense,92.6,14776,Aucun,2.7,1
+Z0062,Diamaguène,Dakar,14.73764,-17.35083,8.2,0.19,396,Sableux,Urbain lâche,33.1,4078,Aucun,3.8,2
+Z0063,Diamaguène,Dakar,14.74653,-17.37307,0.5,0.4,2400,Argileux,Végétation naturelle,0.0,175,Aucun,3.1,4
+Z0064,Diamaguène,Dakar,14.73508,-17.35535,6.3,0.74,322,Hydromorphe,Zone humide (Niayes/bas-fond),22.0,264,Aucun,,3
+Z0065,Diamaguène,Dakar,14.75615,-17.37415,3.8,1.6,900,Hydromorphe,Zone humide (Niayes/bas-fond),22.3,108,Aucun,2.6,3
+Z0066,Diamaguène,Dakar,14.74749,-17.3563,9.9,0.96,686,Hydromorphe,Urbain dense,75.9,7129,Aucun,3.8,3
+Z0067,Diamaguène,Dakar,14.72069,-17.34881,8.8,0.21,792,Hydromorphe,Zone humide (Niayes/bas-fond),21.0,151,Partiel,2.7,2
+Z0068,Diamaguène,Dakar,14.75421,-17.37802,4.0,0.35,631,Latéritique,Urbain dense,89.4,7845,Aucun,3.0,8
+Z0069,Diamaguène,Dakar,14.76319,-17.36296,12.6,1.2,4535,Latéritique,Urbain dense,76.7,18567,Partiel,3.4,2
+Z0070,Diamaguène,Dakar,14.75324,-17.33911,10.7,1.68,311,Sableux,Urbain dense,85.0,17007,Complet,3.0,0
+Z0071,Mbao,Dakar,14.7438,-17.33805,5.9,0.75,304,Hydromorphe,Zone humide (Niayes/bas-fond),7.7,140,Complet,1.6,0
+Z0072,Mbao,Dakar,14.73961,-17.34465,7.3,1.04,3703,Sableux,Urbain dense,61.6,10509,Partiel,4.2,0
+Z0073,Mbao,Dakar,14.75727,-17.34259,16.0,1.81,1354,Hydromorphe,Urbain dense,79.7,12847,Partiel,3.9,1
+Z0074,Mbao,Dakar,14.74396,-17.3368,-9999.0,0.71,2037,Argileux,Urbain dense,90.3,17170,Partiel,3.7,1
+Z0075,Mbao,Dakar,14.7414,-17.34851,10.2,0.5,2195,Latéritique,Agricole,10.3,527,Aucun,3.3,0
+Z0076,Mbao,Dakar,14.74586,-17.3392,16.0,0.2,1362,Sableux,Urbain lâche,63.9,8733,Complet,4.4,0
+Z0077,Mbao,Dakar,14.73941,-17.31544,16.9,0.7,1068,Argileux,Urbain lâche,50.1,4466,Partiel,4.9,0
+Z0078,Mbao,Dakar,14.75705,-17.32202,7.7,0.18,609,Sableux,Urbain dense,86.7,16447,Aucun,3.4,2
+Z0079,Mbao,Dakar,14.74546,-17.31381,10.2,0.4,684,Sableux,Urbain dense,91.1,19439,Aucun,3.7,0
+Z0080,Mbao,Dakar,14.75373,-17.32992,1.2,0.76,1222,Argileux,Urbain dense,77.1,31714,Partiel,3.0,2
+Z0081,Mbao,Dakar,14.73262,-17.34469,18.4,0.5,675,Argileux,Urbain dense,89.7,10282,Aucun,5.7,0
+Z0082,Mbao,Dakar,14.75002,-17.33594,0.9,0.2,596,Hydromorphe,Urbain lâche,51.4,7575,Aucun,2.2,7
+Z0083,Mbao,Dakar,14.73248,-17.31342,23.8,0.34,952,Hydromorphe,Végétation naturelle,9.7,315,Aucun,6.0,0
+Z0084,Malika,Dakar,14.78923,-17.31489,8.0,0.36,1052,Hydromorphe,Zone humide (Niayes/bas-fond),36.2,248,Aucun,2.0,2
+Z0085,Malika,Dakar,14.80317,-17.33333,5.2,0.34,256,Argilo-sableux,Urbain dense,74.9,9459,Partiel,2.4,3
+Z0086,Malika,Dakar,14.797,-17.3419,0.5,0.62,165,Hydromorphe,Zone humide (Niayes/bas-fond),9.9,165,Aucun,0.5,7
+Z0087,Malika,Dakar,14.79645,-17.33342,5.5,0.09,141,Sableux,Urbain dense,91.6,16593,Partiel,3.5,3
+Z0088,Malika,Dakar,14.7707,-17.32613,3.7,0.31,73,Latéritique,Urbain lâche,65.0,6947,Aucun,2.4,7
+Z0089,Malika,Dakar,14.785,-17.33654,2.9,0.61,1065,Latéritique,Urbain lâche,50.7,8266,Partiel,2.1,2
+Z0090,Malika,Dakar,14.76961,-17.32527,6.6,0.87,334,Argilo-sableux,Urbain dense,98.0,11336,Aucun,,4
+Z0091,Malika,Dakar,14.79606,-17.34449,5.3,1.1,155,Hydromorphe,Urbain dense,82.0,17599,Aucun,4.0,10
+Z0092,Malika,Dakar,14.79835,-17.33308,1.8,0.99,586,Hydromorphe,Zone humide (Niayes/bas-fond),26.9,211,Aucun,1.0,8
+Z0093,Malika,Dakar,14.8049,-17.33338,1.8,0.26,324,Sableux,Urbain lâche,39.7,8086,Aucun,2.1,2
+Z0094,Jaxaay,Dakar,14.76716,-17.23616,7.7,0.65,1121,Hydromorphe,Zone humide (Niayes/bas-fond),29.5,106,Partiel,2.1,2
+Z0095,Jaxaay,Dakar,14.78096,-17.22172,14.7,0.68,963,Hydromorphe,Végétation naturelle,0.0,542,Aucun,4.9,1
+Z0096,Jaxaay,Dakar,14.80009,-17.23251,5.5,2.89,399,Hydromorphe,Zone humide (Niayes/bas-fond),27.2,116,Partiel,1.2,3
+Z0097,Jaxaay,Dakar,14.79005,-17.21972,21.6,0.09,4378,Hydromorphe,Végétation naturelle,13.7,263,Partiel,4.3,0
+Z0098,Jaxaay,Dakar,14.77263,-17.2305,8.1,1.13,853,Sableux,Urbain lâche,25.2,2900,Partiel,2.1,0
+Z0099,Jaxaay,Dakar,14.77769,-17.23491,14.7,0.88,2620,Sableux,Urbain lâche,45.8,6663,Aucun,3.9,0
+Z0100,Jaxaay,Dakar,14.76893,-17.22383,12.1,0.57,887,Hydromorphe,Urbain dense,66.1,15371,Aucun,4.5,2
+Z0101,Jaxaay,Dakar,14.78041,-17.23165,22.2,0.41,2127,Hydromorphe,Zone humide (Niayes/bas-fond),13.9,109,Partiel,0.2,0
+Z0102,Jaxaay,Dakar,14.7786,-17.23854,8.0,0.11,759,Hydromorphe,Urbain dense,81.0,23966,Partiel,1.7,9
+Z0103,Rufisque,Dakar,14.71686,-17.2484,-9999.0,0.27,646,Sableux,Urbain dense,98.0,14540,Partiel,3.3,1
+Z0104,Rufisque,Dakar,14.73616,-17.26163,4.0,0.59,1311,Hydromorphe,Urbain dense,94.6,16709,Partiel,2.8,8
+Z0105,Rufisque,Dakar,14.73277,-17.2631,5.9,0.21,1930,Sableux,Urbain lâche,44.0,2332,Complet,3.9,0
+Z0106,Rufisque,Dakar,14.69455,-17.26879,6.4,0.93,799,Sableux,Urbain dense,64.6,32847,Aucun,3.1,1
+Z0107,Rufisque,Dakar,14.72644,-17.26822,12.1,0.09,670,Sableux,Urbain dense,70.2,28017,Aucun,5.5,1
+Z0108,Rufisque,Dakar,14.71863,-17.26058,14.4,0.89,1261,Hydromorphe,Urbain dense,88.5,9764,Complet,4.4,0
+Z0109,Rufisque,Dakar,14.71434,-17.28233,15.5,1.41,2093,Sableux,Végétation naturelle,9.1,251,Aucun,4.8,1
+Z0110,Rufisque,Dakar,14.70813,-17.2962,10.4,1.01,1269,Hydromorphe,Zone humide (Niayes/bas-fond),18.4,234,Aucun,1.3,2
+Z0111,Rufisque,Dakar,14.72642,-17.24225,6.7,0.19,1308,Sableux,Urbain dense,91.2,21458,Partiel,,1
+Z0112,Rufisque,Dakar,14.7172,-17.27428,13.4,0.35,466,Sableux,Urbain dense,83.7,27271,Complet,3.7,0
+Z0113,Bargny,Dakar,14.73555,-17.23852,-9999.0,0.11,297,Hydromorphe,Urbain lâche,45.7,2721,Complet,4.8,1
+Z0114,Bargny,Dakar,14.70073,-17.23962,5.3,1.18,108,Sableux,Urbain lâche,42.2,4779,Aucun,3.3,3
+Z0115,Bargny,Dakar,14.70544,-17.22221,-9999.0,0.1,806,Argileux,Urbain dense,86.1,15264,Aucun,5.2,1
+Z0116,Bargny,Dakar,14.70282,-17.22198,13.9,0.81,97,Sableux,Urbain lâche,40.6,2542,Complet,4.1,0
+Z0117,Bargny,Dakar,14.68992,-17.23425,10.7,0.63,498,Latéritique,Urbain lâche,67.1,8525,Complet,3.6,2
+Z0118,Bargny,Dakar,14.69115,-17.24468,1.8,0.27,584,Sableux,Végétation naturelle,5.2,372,Partiel,3.7,0
+Z0119,Bargny,Dakar,14.6942,-17.2432,10.9,0.31,477,Argilo-sableux,Agricole,31.1,165,Partiel,3.0,1
+Z0120,Bargny,Dakar,14.69562,-17.22149,9.4,0.68,1876,Hydromorphe,Urbain dense,74.5,13167,Partiel,2.5,0
+Z0121,Bargny,Dakar,14.7118,-17.22107,12.9,0.45,2136,Sableux,Urbain dense,80.8,16357,Aucun,4.0,3
+Z0122,Bargny,Dakar,14.68817,-17.23784,12.2,2.25,757,Argilo-sableux,Urbain dense,71.9,13553,Aucun,4.7,0
+Z0123,Bargny,Dakar,14.69114,-17.24875,9.4,0.3,535,Hydromorphe,Zone humide (Niayes/bas-fond),35.6,353,Partiel,2.5,2
+Z0124,Bargny,Dakar,14.7104,-17.23034,10.1,0.89,521,Argileux,Urbain lâche,46.2,5843,Aucun,2.9,1
+Z0125,Bargny,Dakar,14.70054,-17.22867,16.6,0.66,139,Argilo-sableux,Urbain dense,72.2,21618,Partiel,4.8,1
+Z0126,Dakar-Plateau,Dakar,14.67052,-17.43143,21.0,0.3,1656,Hydromorphe,Zone humide (Niayes/bas-fond),37.2,253,Complet,3.5,0
+Z0127,Dakar-Plateau,Dakar,14.66946,-17.43927,6.3,1.42,787,Hydromorphe,Zone humide (Niayes/bas-fond),8.5,244,Partiel,1.6,0
+Z0128,Dakar-Plateau,Dakar,14.64892,-17.43605,25.3,0.26,1169,Sableux,Urbain dense,83.7,11754,Complet,3.5,0
+Z0129,Dakar-Plateau,Dakar,14.6858,-17.41935,13.8,2.37,2316,Latéritique,Urbain lâche,62.8,11997,Complet,3.8,0
+Z0130,Dakar-Plateau,Dakar,14.68289,-17.45114,11.1,0.18,1074,Hydromorphe,Urbain dense,92.7,15095,Complet,4.7,0
+Z0131,Dakar-Plateau,Dakar,14.66856,-17.4521,23.8,2.2,1258,Argileux,Urbain dense,85.7,8977,Complet,8.3,0
+Z0132,Dakar-Plateau,Dakar,14.66194,-17.44092,21.7,3.48,1270,Sableux,Urbain dense,79.0,24471,Complet,4.9,0
+Z0133,Dakar-Plateau,Dakar,14.65159,-17.45065,21.0,0.25,1692,Sableux,Urbain dense,98.0,22599,Complet,5.9,0
+Z0134,Dakar-Plateau,Dakar,14.66342,-17.44149,21.1,1.69,2455,Sableux,Urbain dense,74.8,12247,Partiel,7.5,0
+Z0135,Médina,Dakar,14.68164,-17.43602,5.8,0.48,669,Hydromorphe,Urbain dense,82.9,8468,Partiel,3.3,4
+Z0136,Médina,Dakar,14.67527,-17.44466,12.8,0.73,4812,Argileux,Végétation naturelle,16.1,277,Partiel,5.5,1
+Z0137,Médina,Dakar,14.66695,-17.4439,17.1,1.36,376,Hydromorphe,Zone humide (Niayes/bas-fond),37.6,200,Complet,3.2,1
+Z0138,Médina,Dakar,14.70647,-17.45959,14.0,1.38,569,Hydromorphe,Urbain dense,83.0,22648,Aucun,2.4,2
+Z0139,Médina,Dakar,14.6899,-17.45522,19.9,0.2,1019,Hydromorphe,Zone humide (Niayes/bas-fond),36.1,136,Complet,1.7,0
+Z0140,Médina,Dakar,14.68781,-17.45632,10.9,0.55,2822,Sableux,Végétation naturelle,0.0,566,Complet,2.9,0
+Z0141,Médina,Dakar,14.67266,-17.4657,12.2,1.46,800,Sableux,Urbain dense,83.9,33010,Partiel,5.1,0
+Z0142,Médina,Dakar,14.68707,-17.45621,12.7,0.46,539,Hydromorphe,Urbain lâche,63.6,8781,Complet,4.4,1
+Z0143,Médina,Dakar,14.69841,-17.46542,19.4,0.58,2297,Hydromorphe,Urbain dense,86.0,10651,Complet,5.2,0
+Z0144,Grand Yoff,Dakar,14.73204,-17.45446,21.3,0.68,2815,Argileux,Urbain dense,75.3,23287,Aucun,,1
+Z0145,Grand Yoff,Dakar,14.73424,-17.46499,16.4,0.66,750,Sableux,Urbain lâche,58.0,5150,Partiel,6.1,0
+Z0146,Grand Yoff,Dakar,14.76824,-17.47781,9.0,0.11,1919,Hydromorphe,Zone humide (Niayes/bas-fond),25.4,368,Complet,2.4,0
+Z0147,Grand Yoff,Dakar,14.73194,-17.47609,26.9,0.95,856,Hydromorphe,Agricole,19.4,125,Complet,6.3,0
+Z0148,Grand Yoff,Dakar,14.73059,-17.4777,13.9,0.51,1279,Hydromorphe,Agricole,17.9,197,Aucun,3.8,1
+Z0149,Grand Yoff,Dakar,14.73215,-17.46616,4.3,0.3,2214,Sableux,Végétation naturelle,9.8,111,Complet,2.1,0
+Z0150,Grand Yoff,Dakar,14.72536,-17.4644,9.1,1.71,1311,Argileux,Urbain lâche,46.2,6997,Complet,3.9,0
+Z0151,Grand Yoff,Dakar,14.73892,-17.4665,15.7,0.31,2777,Sableux,Urbain lâche,50.6,13283,Partiel,4.6,0
+Z0152,Grand Yoff,Dakar,14.7194,-17.47307,23.3,1.04,1874,Argileux,Urbain lâche,60.4,3418,Partiel,6.0,0
+Z0153,Grand Yoff,Dakar,14.70957,-17.45297,8.0,1.38,591,Sableux,Urbain dense,80.2,12585,Complet,3.5,0
+Z0154,Grand Yoff,Dakar,14.70614,-17.4644,3.7,0.26,692,Argilo-sableux,Urbain lâche,53.7,3142,Partiel,2.2,2
+Z0155,Grand Yoff,Dakar,14.7435,-17.4662,18.8,0.49,2224,Sableux,Urbain lâche,39.6,2119,Partiel,6.1,0
+Z0156,Grand Yoff,Dakar,14.74519,-17.45574,9.3,0.12,2542,Sableux,Urbain dense,71.8,12980,Partiel,2.7,2
+Z0157,Grand Yoff,Dakar,14.7282,-17.47032,6.4,1.31,2224,Sableux,Urbain dense,60.1,34964,Partiel,2.5,2
+Z0158,Parcelles Assainies,Dakar,14.76157,-17.42324,20.8,0.3,1237,Argilo-sableux,Végétation naturelle,2.8,286,Aucun,8.0,0
+Z0159,Parcelles Assainies,Dakar,14.76218,-17.44181,10.8,0.22,983,Latéritique,Urbain dense,81.1,12347,Partiel,5.6,1
+Z0160,Parcelles Assainies,Dakar,14.7896,-17.4278,10.4,0.06,993,Argilo-sableux,Urbain dense,93.6,26197,,2.8,1
+Z0161,Parcelles Assainies,Dakar,14.76351,-17.41666,13.3,2.79,2660,Argilo-sableux,Urbain dense,87.6,10720,Partiel,4.6,0
+Z0162,Parcelles Assainies,Dakar,14.75642,-17.43541,7.3,1.46,1831,Argilo-sableux,Agricole,4.9,111,Aucun,4.2,0
+Z0163,Parcelles Assainies,Dakar,14.75767,-17.45147,11.3,1.22,3217,Sableux,Végétation naturelle,2.7,276,Complet,3.9,0
+Z0164,Parcelles Assainies,Dakar,14.75308,-17.42966,15.8,4.06,1465,Hydromorphe,Zone humide (Niayes/bas-fond),20.5,205,Partiel,1.7,0
+Z0165,Parcelles Assainies,Dakar,14.77052,-17.44417,3.2,1.39,579,Argileux,Végétation naturelle,15.2,363,Complet,2.8,0
+Z0166,Parcelles Assainies,Dakar,14.77096,-17.46583,12.0,0.22,653,Argilo-sableux,Urbain dense,82.0,21914,Aucun,5.0,1
+Z0167,Parcelles Assainies,Dakar,14.78546,-17.41686,11.8,0.77,2373,Argilo-sableux,Urbain lâche,42.4,9156,Complet,2.6,0
+Z0168,Parcelles Assainies,Dakar,14.76255,-17.45381,20.2,0.07,1168,Hydromorphe,Urbain dense,86.7,21481,Complet,4.1,1
+Z0169,Ouakam,Dakar,14.71628,-17.48794,23.4,3.05,2625,Argileux,Urbain lâche,41.1,7508,Aucun,4.4,0
+Z0170,Ouakam,Dakar,14.69987,-17.49436,34.4,0.69,418,Latéritique,Agricole,14.2,200,Complet,7.8,0
+Z0171,Ouakam,Dakar,14.73221,-17.47891,-9999.0,0.12,3172,Hydromorphe,Urbain dense,91.4,7274,,7.7,0
+Z0172,Ouakam,Dakar,14.72291,-17.506,43.1,3.99,2016,Hydromorphe,Urbain dense,63.1,30098,Partiel,8.9,0
+Z0173,Ouakam,Dakar,14.71328,-17.49431,22.8,1.04,2984,Argilo-sableux,Urbain dense,80.1,6138,Partiel,5.4,0
+Z0174,Ouakam,Dakar,14.73839,-17.49537,27.2,0.53,2818,Hydromorphe,Zone humide (Niayes/bas-fond),41.4,192,Partiel,1.0,2
+Z0175,Ouakam,Dakar,14.72375,-17.48094,22.6,0.51,863,Latéritique,Agricole,6.6,260,Complet,5.6,0
+Z0176,Ouakam,Dakar,14.7161,-17.4893,14.4,0.33,2573,Sableux,Urbain lâche,54.0,1556,Partiel,4.2,2
+Z0177,Ouakam,Dakar,14.71957,-17.49587,13.3,6.68,2478,Hydromorphe,Zone humide (Niayes/bas-fond),8.8,196,Partiel,0.2,0
+Z0178,Ouakam,Dakar,14.72372,-17.50475,20.7,1.68,1107,Hydromorphe,Zone humide (Niayes/bas-fond),24.6,124,Partiel,1.6,1
+Z0179,Ouakam,Dakar,14.72216,-17.47992,28.5,0.35,1609,Sableux,Urbain dense,75.4,13764,,6.2,0
+Z0180,Yoff,Dakar,14.76533,-17.47655,10.1,0.65,1017,Argilo-sableux,Urbain dense,74.5,7601,Partiel,4.0,0
+Z0181,Yoff,Dakar,14.73665,-17.46128,6.0,0.12,459,Sableux,Urbain dense,77.7,21298,Partiel,2.7,2
+Z0182,Yoff,Dakar,14.75527,-17.45836,17.6,0.05,1042,Argilo-sableux,Urbain dense,97.9,16974,Aucun,4.4,2
+Z0183,Yoff,Dakar,14.74673,-17.48669,7.3,0.05,2254,Argilo-sableux,Urbain dense,98.0,18921,Partiel,4.3,1
+Z0184,Yoff,Dakar,14.74774,-17.47389,11.5,1.35,1814,Sableux,Urbain dense,85.6,19030,Partiel,,0
+Z0185,Yoff,Dakar,14.73893,-17.46575,9.2,0.58,487,Hydromorphe,Zone humide (Niayes/bas-fond),21.7,132,Aucun,1.6,3
+Z0186,Yoff,Dakar,14.75659,-17.48393,18.3,0.24,763,Hydromorphe,Urbain lâche,51.9,6760,Partiel,4.5,0
+Z0187,Yoff,Dakar,14.74759,-17.45014,16.7,0.59,1141,Hydromorphe,Urbain lâche,67.0,7549,Complet,,0
+Z0188,Yoff,Dakar,14.7581,-17.48409,11.5,0.46,1220,Sableux,Urbain dense,91.9,14249,Complet,2.8,0
+Z0189,Yoff,Dakar,14.75279,-17.46994,14.7,0.86,2329,Hydromorphe,Agricole,10.8,130,Partiel,4.3,0
+Z0190,Yoff,Dakar,14.76312,-17.48194,15.1,1.04,1668,Argilo-sableux,Urbain dense,81.6,15194,Partiel,3.3,1
+Z0191,Yoff,Dakar,14.78017,-17.46809,0.5,0.04,709,Sableux,Urbain lâche,60.7,5967,Complet,2.4,0
+Z0192,Yoff,Dakar,14.75794,-17.46955,10.5,0.46,736,Hydromorphe,Zone humide (Niayes/bas-fond),28.2,108,Aucun,1.1,2
+Z0193,Yoff,Dakar,14.75579,-17.48904,13.4,0.95,1077,Argilo-sableux,Urbain lâche,53.9,2470,Complet,2.7,0
+Z0194,Kaolack,Kaolack,14.15848,-16.06817,7.1,0.7,376,Latéritique,Urbain dense,84.7,12607,Aucun,2.3,3
+Z0195,Kaolack,Kaolack,14.13608,-16.08179,15.3,0.14,965,Sableux,Urbain lâche,48.5,3042,Aucun,3.9,0
+Z0196,Kaolack,Kaolack,14.14481,-16.06172,3.1,0.46,1175,Argilo-sableux,Urbain lâche,56.1,7106,Aucun,0.9,5
+Z0197,Kaolack,Kaolack,14.15775,-16.06744,13.2,0.04,2708,Argilo-sableux,Urbain lâche,44.3,3743,Partiel,5.0,0
+Z0198,Kaolack,Kaolack,14.153,-16.06389,5.0,0.49,433,Argileux,Agricole,19.9,235,Complet,3.7,0
+Z0199,Kaolack,Kaolack,14.15552,-16.08299,1.8,1.17,447,Argileux,Urbain dense,98.0,16291,Aucun,1.6,10
+Z0200,Kaolack,Kaolack,14.16769,-16.04307,12.4,0.2,519,Argilo-sableux,Urbain lâche,53.1,14881,Aucun,3.7,1
+Z0201,Kaolack,Kaolack,14.1462,-16.0589,8.0,0.12,1857,Argilo-sableux,Urbain dense,78.1,18270,Aucun,4.0,2
+Z0202,Kaolack,Kaolack,14.16404,-16.07917,4.6,0.49,2372,Argileux,Urbain dense,87.4,15711,Aucun,2.2,4
+Z0203,Kaolack,Kaolack,14.15065,-16.05981,1.3,0.82,1265,Sableux,Urbain dense,96.1,20917,Aucun,2.6,1
+Z0204,Kaolack,Kaolack,14.14657,-16.07824,7.2,0.19,1228,Hydromorphe,Urbain dense,98.0,13313,Partiel,2.0,3
+Z0205,Kaolack,Kaolack,14.17138,-16.09182,10.0,0.99,385,Argileux,Urbain dense,72.6,16834,Aucun,3.8,1
+Z0206,Kaolack,Kaolack,14.16763,-16.07389,5.2,0.61,675,Argilo-sableux,Urbain dense,85.0,22391,Aucun,1.7,3
+Z0207,Touba,Diourbel,14.84873,-15.88383,43.7,1.2,575,Argilo-sableux,Urbain dense,72.4,19001,Complet,10.4,0
+Z0208,Touba,Diourbel,14.87883,-15.87911,51.3,4.72,1059,Hydromorphe,Zone humide (Niayes/bas-fond),21.0,148,Partiel,2.8,1
+Z0209,Touba,Diourbel,14.84616,-15.88107,16.1,2.7,1931,Argileux,Urbain lâche,52.9,2735,Partiel,6.3,7
+Z0210,Touba,Diourbel,14.85043,-15.86966,41.0,1.65,2005,Sableux,Agricole,0.0,252,Aucun,8.3,0
+Z0211,Touba,Diourbel,14.87015,-15.86466,18.5,1.76,4454,Hydromorphe,Zone humide (Niayes/bas-fond),27.2,98,Partiel,2.0,9
+Z0212,Touba,Diourbel,14.84046,-15.88397,57.7,1.25,1068,Argileux,Urbain lâche,50.1,4943,Aucun,12.3,0
+Z0213,Touba,Diourbel,14.85238,-15.88162,74.3,1.0,827,Argileux,Agricole,17.4,258,Partiel,14.1,0
+Z0214,Touba,Diourbel,14.84791,-15.87013,76.0,1.33,636,Hydromorphe,Urbain dense,82.8,14578,Aucun,14.3,0
+Z0215,Touba,Diourbel,14.86171,-15.87625,33.7,1.18,7159,Hydromorphe,Zone humide (Niayes/bas-fond),29.2,154,Partiel,2.3,6
+Z0216,Touba,Diourbel,14.84919,-15.88647,53.2,4.11,1632,Sableux,Urbain dense,82.0,10249,Partiel,10.5,0
+Z0217,Touba,Diourbel,14.84564,-15.86288,58.7,1.37,1031,Latéritique,Urbain dense,77.7,12086,Partiel,12.5,0
+Z0218,Touba,Diourbel,14.84925,-15.87109,49.1,1.13,4198,Argilo-sableux,Urbain lâche,49.2,3548,,10.8,0
+Z0219,Touba,Diourbel,14.86962,-15.85195,62.2,4.04,451,Sableux,Urbain lâche,46.6,3929,Partiel,10.8,0
+Z0220,Touba,Diourbel,14.84779,-15.87393,38.9,3.42,818,Argileux,Urbain lâche,38.0,3649,Partiel,8.3,0
+Z0221,Mbacké,Diourbel,14.79673,-15.91172,60.1,1.8,1143,Argilo-sableux,Urbain dense,64.7,12069,Complet,11.2,0
+Z0222,Mbacké,Diourbel,14.78599,-15.9198,47.5,7.57,1100,Hydromorphe,Agricole,8.9,348,Complet,9.9,0
+Z0223,Mbacké,Diourbel,14.78444,-15.91061,11.3,3.07,2795,Argilo-sableux,Végétation naturelle,6.1,304,Aucun,4.4,3
+Z0224,Mbacké,Diourbel,14.80125,-15.89962,23.3,0.27,3723,Latéritique,Agricole,0.0,94,Aucun,7.2,3
+Z0225,Mbacké,Diourbel,14.78067,-15.89585,41.6,2.34,2635,Argileux,Urbain dense,68.3,16607,Aucun,8.8,0
+Z0226,Mbacké,Diourbel,14.79376,-15.89741,33.9,0.45,4399,Argilo-sableux,Agricole,25.3,90,Partiel,7.3,0
+Z0227,Mbacké,Diourbel,14.79743,-15.93444,45.5,1.31,1360,Argilo-sableux,Agricole,18.3,251,Complet,10.4,0
+Z0228,Mbacké,Diourbel,14.79447,-15.9103,37.9,1.18,1600,Sableux,Urbain dense,81.9,13930,Complet,10.5,0
+Z0229,Mbacké,Diourbel,14.79682,-15.93397,28.1,0.66,3203,Argilo-sableux,Agricole,13.2,128,Aucun,7.3,1
+Z0230,Mbacké,Diourbel,14.77472,-15.91024,52.2,3.98,4014,Argilo-sableux,Agricole,6.7,119,Partiel,11.5,0
+Z0231,Diourbel,Diourbel,14.64765,-16.24856,25.0,1.73,3234,Argilo-sableux,Urbain dense,88.3,13165,Complet,4.8,0
+Z0232,Diourbel,Diourbel,14.65278,-16.23371,9.1,0.21,890,Latéritique,Agricole,28.8,176,Partiel,5.0,1
+Z0233,Diourbel,Diourbel,14.66621,-16.22567,29.1,0.16,1140,Argileux,Urbain lâche,49.6,7013,Partiel,6.7,0
+Z0234,Diourbel,Diourbel,14.66993,-16.26694,22.9,1.38,2320,Hydromorphe,Zone humide (Niayes/bas-fond),41.1,334,Complet,2.0,1
+Z0235,Diourbel,Diourbel,14.67604,-16.21612,25.1,1.16,560,Argileux,Agricole,2.0,439,Aucun,6.6,0
+Z0236,Diourbel,Diourbel,14.67268,-16.25098,13.7,3.83,7707,Hydromorphe,Urbain lâche,37.6,10654,Partiel,4.4,0
+Z0237,Diourbel,Diourbel,14.65434,-16.22697,25.1,0.75,5075,Argilo-sableux,Agricole,18.5,202,Complet,6.4,0
+Z0238,Diourbel,Diourbel,14.65928,-16.2439,14.2,2.3,7284,Latéritique,Urbain lâche,59.8,8904,Aucun,6.1,0
+Z0239,Diourbel,Diourbel,14.6804,-16.23168,22.1,0.72,5422,Hydromorphe,Agricole,16.5,191,Aucun,5.4,2
+Z0240,Saint-Louis,Saint-Louis,16.01922,-16.49404,2.9,0.53,346,Latéritique,Urbain dense,81.9,6593,Aucun,0.4,7
+Z0241,Saint-Louis,Saint-Louis,16.04467,-16.49675,5.5,0.16,290,Hydromorphe,Zone humide (Niayes/bas-fond),35.0,61,Aucun,1.3,3
+Z0242,Saint-Louis,Saint-Louis,16.03511,-16.48944,1.3,0.71,408,Argileux,Urbain lâche,53.7,2584,,0.2,2
+Z0243,Saint-Louis,Saint-Louis,16.0088,-16.51709,4.5,0.7,143,Hydromorphe,Urbain lâche,31.7,6218,Partiel,1.8,3
+Z0244,Saint-Louis,Saint-Louis,16.03488,-16.49881,1.4,2.33,270,Argilo-sableux,Urbain dense,93.9,25349,Partiel,2.6,2
+Z0245,Saint-Louis,Saint-Louis,16.03679,-16.48992,5.1,0.57,1049,Argilo-sableux,Urbain dense,70.3,12984,Aucun,3.3,3
+Z0246,Saint-Louis,Saint-Louis,16.0156,-16.50141,0.5,0.43,570,Argilo-sableux,Urbain dense,76.1,9383,Aucun,1.0,4
+Z0247,Saint-Louis,Saint-Louis,16.02894,-16.49939,4.9,0.85,396,Argilo-sableux,Urbain lâche,47.1,5532,Aucun,3.1,1
+Z0248,Saint-Louis,Saint-Louis,16.02015,-16.49044,10.8,0.3,222,Hydromorphe,Zone humide (Niayes/bas-fond),27.0,127,Complet,2.4,0
+Z0249,Saint-Louis,Saint-Louis,16.02846,-16.49101,0.5,0.13,146,Argileux,Urbain dense,76.1,13631,,2.1,10
+Z0250,Saint-Louis,Saint-Louis,16.04611,-16.50592,0.5,0.11,1042,Argilo-sableux,Urbain lâche,47.1,3277,Aucun,2.4,5
+Z0251,Saint-Louis,Saint-Louis,16.04214,-16.50128,3.8,0.34,307,Hydromorphe,Urbain lâche,61.6,6533,Aucun,2.5,2
+Z0252,Podor,Saint-Louis,16.66123,-14.96933,10.7,0.94,547,Hydromorphe,Zone humide (Niayes/bas-fond),10.5,122,Partiel,1.1,0
+Z0253,Podor,Saint-Louis,16.65655,-14.94458,7.5,0.02,708,Sableux,Urbain lâche,54.5,8624,Aucun,3.6,1
+Z0254,Podor,Saint-Louis,16.65444,-14.93937,10.0,0.74,370,Sableux,Agricole,1.9,157,Aucun,4.4,0
+Z0255,Podor,Saint-Louis,16.64099,-14.97768,5.1,0.4,781,Hydromorphe,Zone humide (Niayes/bas-fond),16.5,162,Partiel,1.5,2
+Z0256,Podor,Saint-Louis,16.66066,-14.95529,3.1,0.91,1276,Argileux,Urbain lâche,58.5,4301,Partiel,1.7,1
+Z0257,Podor,Saint-Louis,16.64217,-14.94369,8.9,0.98,1160,Latéritique,Urbain lâche,49.9,2731,Aucun,,0
+Z0258,Podor,Saint-Louis,16.6727,-14.96094,9.3,1.27,422,Latéritique,Urbain lâche,52.6,3479,Complet,3.0,0
+Z0259,Podor,Saint-Louis,16.65987,-14.97207,0.5,0.99,212,Sableux,Urbain lâche,44.5,7220,Partiel,2.0,1
+Z0260,Podor,Saint-Louis,16.64394,-14.95811,7.1,0.16,665,Latéritique,Urbain lâche,40.8,2937,Complet,4.7,0
+Z0261,Richard-Toll,Saint-Louis,16.46542,-15.6986,11.8,0.6,85,Argilo-sableux,Urbain dense,78.4,18642,Partiel,3.7,1
+Z0262,Richard-Toll,Saint-Louis,16.45417,-15.70834,9.1,0.19,500,Argileux,Agricole,0.0,211,Partiel,3.3,1
+Z0263,Richard-Toll,Saint-Louis,16.46792,-15.70455,7.0,0.24,1488,Hydromorphe,Agricole,3.9,154,Partiel,3.4,0
+Z0264,Richard-Toll,Saint-Louis,16.45711,-15.70976,15.2,1.23,623,Argileux,Végétation naturelle,2.7,115,Partiel,4.0,0
+Z0265,Richard-Toll,Saint-Louis,16.43943,-15.69625,6.3,0.38,442,Argileux,Urbain dense,66.5,14489,Aucun,3.0,3
+Z0266,Richard-Toll,Saint-Louis,16.46503,-15.70134,0.5,0.51,324,Argileux,Agricole,0.0,104,Partiel,4.5,0
+Z0267,Richard-Toll,Saint-Louis,16.45779,-15.68326,6.1,2.3,470,Argilo-sableux,Urbain dense,98.0,15403,Partiel,2.9,0
+Z0268,Richard-Toll,Saint-Louis,16.46142,-15.68796,10.1,0.26,878,Sableux,Urbain dense,85.2,9502,Partiel,3.9,1
+Z0269,Richard-Toll,Saint-Louis,16.45427,-15.70138,11.5,0.67,2346,Sableux,Urbain dense,94.4,9091,Complet,,0
+Z0270,Richard-Toll,Saint-Louis,16.47302,-15.6757,4.1,0.24,2436,Argileux,Agricole,18.3,105,Partiel,3.5,1
+Z0271,Richard-Toll,Saint-Louis,16.47016,-15.70557,6.5,1.48,1226,Sableux,Végétation naturelle,2.6,267,Complet,2.4,0
+Z0272,Thiès,Thiès,14.78673,-16.93095,109.6,0.99,2966,Sableux,Urbain dense,95.3,14689,Aucun,20.7,0
+Z0273,Thiès,Thiès,14.75176,-16.92971,85.6,3.0,1968,Hydromorphe,Zone humide (Niayes/bas-fond),27.8,102,Partiel,1.6,0
+Z0274,Thiès,Thiès,14.79648,-16.93326,95.0,2.09,1763,Sableux,Urbain dense,82.8,12901,Partiel,18.4,0
+Z0275,Thiès,Thiès,14.80125,-16.94199,80.5,1.81,6162,Latéritique,Urbain dense,53.4,24065,Complet,15.8,0
+Z0276,Thiès,Thiès,14.78371,-16.92981,62.1,1.3,1645,Sableux,Végétation naturelle,14.6,340,Aucun,13.5,0
+Z0277,Thiès,Thiès,14.78705,-16.92185,44.8,2.32,830,Hydromorphe,Urbain dense,76.3,28370,Complet,9.5,1
+Z0278,Thiès,Thiès,14.80536,-16.91571,85.3,2.37,1917,Sableux,Urbain dense,79.0,15020,Complet,16.4,0
+Z0279,Thiès,Thiès,14.7854,-16.9351,74.8,0.86,3557,Argileux,Urbain lâche,31.7,2995,Aucun,14.1,1
+Z0280,Thiès,Thiès,14.78509,-16.93982,93.3,1.52,1918,Hydromorphe,Urbain dense,84.6,11170,Aucun,18.1,0
+Z0281,Thiès,Thiès,14.80311,-16.94015,73.0,2.97,3915,Hydromorphe,Urbain dense,86.3,19662,Aucun,15.0,0
+Z0282,Thiès,Thiès,14.79684,-16.93017,32.3,2.58,826,Argilo-sableux,Agricole,0.0,376,Complet,,0
+Z0283,Mbour,Thiès,14.40906,-16.95347,17.6,0.06,1550,Sableux,Agricole,30.5,58,Aucun,5.8,1
+Z0284,Mbour,Thiès,14.41182,-16.97441,15.0,0.04,898,Sableux,Urbain dense,85.5,13160,Aucun,4.2,1
+Z0285,Mbour,Thiès,14.43346,-16.95247,15.5,0.34,288,Sableux,Urbain dense,88.7,20054,Complet,5.7,0
+Z0286,Mbour,Thiès,14.41343,-16.94179,11.8,0.21,1405,Hydromorphe,Végétation naturelle,7.6,366,Partiel,,1
+Z0287,Mbour,Thiès,14.42646,-16.9492,21.1,2.18,2412,Argileux,Urbain lâche,65.3,3157,Complet,5.1,0
+Z0288,Mbour,Thiès,14.4057,-16.94906,1.6,1.09,1753,Sableux,Urbain lâche,76.2,3652,Aucun,1.9,1
+Z0289,Mbour,Thiès,14.40037,-16.97439,15.6,1.12,477,Sableux,Urbain dense,68.9,12471,Partiel,,0
+Z0290,Mbour,Thiès,14.42727,-16.97215,11.8,0.89,829,Sableux,Urbain dense,84.1,22974,Complet,5.6,0
+Z0291,Mbour,Thiès,14.4147,-16.94897,17.4,0.06,2339,Hydromorphe,Urbain dense,88.7,12736,Partiel,5.3,0
+Z0292,Mbour,Thiès,14.42213,-16.99522,-9999.0,1.09,330,Sableux,Urbain lâche,38.2,4489,Complet,3.9,0
+Z0293,Mbour,Thiès,14.45196,-16.9573,13.5,1.55,791,Sableux,Urbain lâche,55.7,3351,Complet,3.0,0
+Z0294,Mbour,Thiès,14.40352,-16.97361,5.2,2.18,198,Hydromorphe,Urbain lâche,74.6,4647,Partiel,0.3,6
+Z0295,Tivaouane,Thiès,14.94763,-16.82452,58.2,2.44,11172,Hydromorphe,Zone humide (Niayes/bas-fond),28.1,422,Complet,0.8,0
+Z0296,Tivaouane,Thiès,-16.82262,14.94129,40.6,2.7,1747,Hydromorphe,Zone humide (Niayes/bas-fond),14.4,125,Aucun,1.1,1
+Z0297,Tivaouane,Thiès,14.93169,-16.81861,48.8,0.42,2175,Sableux,Agricole,35.2,167,Complet,9.9,0
+Z0298,Tivaouane,Thiès,14.9435,-16.81752,46.7,10.72,3534,Hydromorphe,Agricole,2.1,151,Complet,10.6,0
+Z0299,Tivaouane,Thiès,14.93193,-16.81093,46.5,3.13,3173,Hydromorphe,Zone humide (Niayes/bas-fond),18.2,176,Partiel,0.3,1
+Z0300,Tivaouane,Thiès,14.92773,-16.82273,30.9,1.2,2602,Hydromorphe,Agricole,14.5,259,Partiel,8.0,0
+Z0301,Tivaouane,Thiès,14.93591,-16.81981,42.1,2.58,5278,Sableux,Agricole,3.6,277,Partiel,9.6,0
+Z0302,Tivaouane,Thiès,-16.82,14.93929,14.2,1.96,3319,Sableux,Agricole,0.0,326,Partiel,3.5,0
+Z0303,Tivaouane,Thiès,14.9366,-16.82623,30.3,0.98,1911,Argilo-sableux,Agricole,4.1,239,Complet,7.1,1
+Z0304,Joal-Fadiouth,Thiès,14.18052,-16.85363,4.7,1.1,221,Hydromorphe,Urbain lâche,53.9,6369,Complet,2.8,1
+Z0305,Joal-Fadiouth,Thiès,14.16657,-16.83202,3.7,0.46,467,Sableux,Végétation naturelle,0.0,187,Partiel,1.9,1
+Z0306,Joal-Fadiouth,Thiès,14.1584,-16.83684,4.1,0.44,985,Argilo-sableux,Urbain dense,98.0,13754,Aucun,4.0,0
+Z0307,Joal-Fadiouth,Thiès,14.18288,-16.81894,0.8,1.43,595,Argileux,Agricole,10.9,517,Complet,1.5,1
+Z0308,Joal-Fadiouth,Thiès,14.1616,-16.84379,1.6,1.45,261,Sableux,Agricole,25.4,162,Complet,2.1,2
+Z0309,Joal-Fadiouth,Thiès,14.15665,-16.81662,0.5,0.9,203,Sableux,Agricole,18.5,121,Partiel,0.9,1
+Z0310,Joal-Fadiouth,Thiès,14.16364,-16.83097,3.2,0.2,921,Hydromorphe,Agricole,32.6,180,Partiel,1.5,3
+Z0311,Joal-Fadiouth,Thiès,14.15963,-16.83076,2.9,0.13,507,Hydromorphe,Urbain lâche,53.1,4004,Partiel,2.1,4
+Z0312,Joal-Fadiouth,Thiès,14.16987,-16.8342,4.7,0.47,2221,Latéritique,Urbain lâche,53.3,7713,Partiel,4.1,0
+Z0313,Joal-Fadiouth,Thiès,14.17376,-16.84671,4.3,0.55,300,Sableux,Urbain dense,85.7,7055,Aucun,2.6,2
+Z0314,Joal-Fadiouth,Thiès,14.17383,-16.83731,3.6,0.46,632,Argilo-sableux,Agricole,10.7,177,Complet,1.5,0
+Z0315,Joal-Fadiouth,Thiès,14.16597,-16.84386,5.7,1.09,630,Sableux,Urbain dense,72.8,17623,Aucun,2.8,0
+Z0316,Joal-Fadiouth,Thiès,14.14191,-16.83374,0.5,0.27,1624,Latéritique,Urbain lâche,43.6,3850,Aucun,2.2,1
+Z0317,Joal-Fadiouth,Thiès,14.14661,-16.84517,4.5,0.76,1685,Hydromorphe,Zone humide (Niayes/bas-fond),16.0,249,Aucun,0.8,1
+Z0318,Kaffrine,Kaffrine,14.10654,-15.5508,23.3,0.04,1933,Argilo-sableux,Agricole,0.0,284,Partiel,6.1,0
+Z0319,Kaffrine,Kaffrine,14.10041,-15.54333,25.8,0.49,1609,Latéritique,Urbain lâche,60.2,5565,Partiel,5.4,1
+Z0320,Kaffrine,Kaffrine,14.07923,-15.53776,17.1,1.36,632,Hydromorphe,Urbain lâche,50.9,7220,Partiel,5.1,1
+Z0321,Kaffrine,Kaffrine,14.11979,-15.56332,13.0,1.36,4250,Hydromorphe,Végétation naturelle,0.0,193,Complet,5.7,0
+Z0322,Kaffrine,Kaffrine,14.08864,-15.56721,7.8,0.97,5872,Argilo-sableux,Agricole,7.9,155,Partiel,4.3,0
+Z0323,Kaffrine,Kaffrine,14.09603,-15.54846,2.5,0.73,8565,Sableux,Urbain lâche,48.5,5032,Complet,2.4,2
+Z0324,Kaffrine,Kaffrine,14.08509,-15.5504,11.3,0.11,1081,Argileux,Agricole,20.0,143,Partiel,2.9,0
+Z0325,Kaffrine,Kaffrine,14.12223,-15.54427,21.3,0.45,4822,Latéritique,Urbain lâche,48.0,6484,Complet,4.8,0
+Z0326,Kaffrine,Kaffrine,14.08396,-15.5586,13.9,0.51,1813,Hydromorphe,Urbain lâche,46.7,2986,Partiel,3.3,2
+Z0327,Kaffrine,Kaffrine,14.0936,-15.54071,19.4,1.21,496,Argilo-sableux,Urbain lâche,47.9,3293,Complet,3.7,0
+Z0328,Ziguinchor,Ziguinchor,12.56688,-16.29029,2.9,0.03,1381,Argilo-sableux,Urbain lâche,64.7,3045,Aucun,3.8,2
+Z0329,Ziguinchor,Ziguinchor,12.55521,-16.28858,5.9,0.32,535,Argilo-sableux,Urbain lâche,56.1,8406,Partiel,3.8,3
+Z0330,Ziguinchor,Ziguinchor,12.56278,-16.2735,9.1,1.03,462,Argilo-sableux,Végétation naturelle,14.0,248,Complet,4.2,1
+Z0331,Ziguinchor,Ziguinchor,12.5347,-16.24552,7.7,0.6,521,Hydromorphe,Zone humide (Niayes/bas-fond),23.7,85,Partiel,0.2,3
+Z0332,Ziguinchor,Ziguinchor,12.58222,-16.27025,15.4,2.88,1520,Argileux,Urbain lâche,62.0,3973,Aucun,6.4,0
+Z0333,Ziguinchor,Ziguinchor,12.56493,-16.28405,11.5,1.07,2368,Sableux,Urbain lâche,56.3,5371,Aucun,4.0,1
+Z0334,Ziguinchor,Ziguinchor,12.56656,-16.25719,7.7,0.31,259,Argilo-sableux,Urbain dense,88.7,12244,Aucun,3.0,6
+Z0335,Ziguinchor,Ziguinchor,12.56666,-16.28001,3.0,2.37,536,Sableux,Urbain dense,82.1,14391,Aucun,3.5,1
+Z0336,Ziguinchor,Ziguinchor,12.57452,-16.27871,15.6,0.4,229,Latéritique,Urbain dense,91.3,15128,Partiel,3.2,1
+Z0337,Ziguinchor,Ziguinchor,12.56827,-16.26111,5.2,1.83,238,Argilo-sableux,Urbain dense,80.1,30838,Complet,,1
+Z0338,Ziguinchor,Ziguinchor,12.5606,-16.25105,11.6,0.11,339,Sableux,Urbain dense,93.4,24042,Complet,3.6,0
+Z0339,Ziguinchor,Ziguinchor,12.53547,-16.2734,16.0,0.95,497,Latéritique,Urbain dense,80.1,10499,Complet,6.6,0
+Z0340,Kolda,Kolda,12.89564,-14.9468,22.8,0.55,234,Argilo-sableux,Urbain lâche,48.6,3171,Complet,6.0,0
+Z0341,Kolda,Kolda,12.88263,-14.94852,29.0,3.67,343,Argilo-sableux,Agricole,11.4,430,Complet,6.8,0
+Z0342,Kolda,Kolda,12.89583,-14.95035,25.3,1.57,452,Sableux,Urbain dense,72.0,13876,Complet,5.7,0
+Z0343,Kolda,Kolda,12.88613,-14.92754,30.7,5.34,1913,Hydromorphe,Zone humide (Niayes/bas-fond),32.7,334,Partiel,2.1,0
+Z0344,Kolda,Kolda,12.88924,-14.95369,41.2,1.49,4804,Sableux,Agricole,24.3,62,Complet,10.3,0
+Z0345,Kolda,Kolda,12.92682,-14.92524,27.4,0.47,847,Argilo-sableux,Urbain lâche,43.9,5900,Partiel,7.9,0
+Z0346,Kolda,Kolda,12.90482,-14.94159,15.7,0.41,917,Argilo-sableux,Urbain dense,74.6,22941,Partiel,4.6,3
+Z0347,Kolda,Kolda,12.88891,-14.95215,29.3,1.35,240,Sableux,Agricole,29.2,161,Complet,6.9,0
+Z0348,Kolda,Kolda,12.88011,-14.94564,40.1,0.84,485,Sableux,Agricole,0.0,258,Partiel,7.2,0
+Z0349,Kolda,Kolda,12.89394,-14.9448,40.8,6.11,351,Argilo-sableux,Agricole,0.4,222,Partiel,7.4,0
+Z0350,Kolda,Kolda,12.90095,-14.96035,25.0,0.3,696,Hydromorphe,Zone humide (Niayes/bas-fond),38.3,141,Partiel,0.2,2
+Z0351,Sédhiou,Sédhiou,12.73239,-15.57694,12.3,0.02,1038,Hydromorphe,Zone humide (Niayes/bas-fond),20.2,307,Partiel,1.8,1
+Z0352,Sédhiou,Sédhiou,12.72051,-15.53261,6.4,0.09,449,Argilo-sableux,Agricole,5.5,197,Partiel,3.5,0
+Z0353,Sédhiou,Sédhiou,12.70881,-15.55343,8.7,2.76,674,Argilo-sableux,Urbain lâche,51.8,4995,Partiel,1.8,0
+Z0354,Sédhiou,Sédhiou,12.71043,-15.56671,15.5,1.76,800,Argileux,Urbain lâche,50.3,3868,Complet,4.0,0
+Z0355,Sédhiou,Sédhiou,12.72114,-15.55619,13.6,1.59,474,Hydromorphe,Zone humide (Niayes/bas-fond),28.6,137,Partiel,3.8,1
+Z0356,Sédhiou,Sédhiou,12.72764,-15.52638,20.2,0.69,1255,Hydromorphe,Zone humide (Niayes/bas-fond),32.9,259,Complet,1.7,0
+Z0357,Sédhiou,Sédhiou,12.71445,-15.56935,14.4,0.83,573,Hydromorphe,Agricole,13.6,254,Complet,3.7,0
+Z0358,Sédhiou,Sédhiou,12.70768,-15.54663,29.5,0.9,517,Argilo-sableux,Urbain dense,70.7,11733,Aucun,6.0,0
+Z0359,Sédhiou,Sédhiou,12.71275,-15.56968,5.1,0.13,1155,Latéritique,Agricole,22.6,155,Partiel,3.3,1
+Z0360,Sédhiou,Sédhiou,12.71974,-15.539,22.7,0.39,2226,Argileux,Agricole,10.8,521,Partiel,4.9,1
+Z0361,Sédhiou,Sédhiou,12.71697,-15.53692,9.8,0.83,508,Hydromorphe,Urbain lâche,53.7,3031,Complet,3.3,0
+Z0362,Sédhiou,Sédhiou,12.70879,-15.5529,14.1,1.01,734,Argilo-sableux,Agricole,11.2,288,Complet,2.8,0
+Z0363,Tambacounda,Tambacounda,13.78272,-13.65999,27.5,0.7,908,Latéritique,Agricole,0.2,166,Partiel,5.1,0
+Z0364,Tambacounda,Tambacounda,13.77036,-13.67162,37.4,1.67,590,Argilo-sableux,Urbain lâche,45.0,5822,Complet,7.0,0
+Z0365,Tambacounda,Tambacounda,13.79481,-13.68059,27.5,4.53,1620,Hydromorphe,Zone humide (Niayes/bas-fond),40.9,221,Aucun,2.8,0
+Z0366,Tambacounda,Tambacounda,13.76792,-13.65559,37.0,0.86,1688,Latéritique,Agricole,9.2,207,Partiel,9.2,0
+Z0367,Tambacounda,Tambacounda,13.78113,-13.66686,47.1,3.59,2837,Sableux,Urbain lâche,43.8,3516,Aucun,9.2,0
+Z0368,Tambacounda,Tambacounda,13.78401,-13.69143,58.9,1.21,522,Argilo-sableux,Urbain dense,74.1,19553,Complet,10.4,0
+Z0369,Tambacounda,Tambacounda,13.78574,-13.68413,45.2,0.55,752,Latéritique,Urbain dense,74.3,15198,Complet,7.4,0
+Z0370,Tambacounda,Tambacounda,13.76483,-13.66103,46.9,2.7,951,Hydromorphe,Zone humide (Niayes/bas-fond),43.5,118,Complet,2.4,0
+Z0371,Tambacounda,Tambacounda,13.79219,-13.66073,33.7,0.09,15828,Hydromorphe,Agricole,0.0,301,Aucun,7.5,3
+Z0372,Tambacounda,Tambacounda,13.77322,-13.66817,17.3,1.39,619,Argilo-sableux,Urbain lâche,60.5,5644,Aucun,5.5,2
+Z0373,Tambacounda,Tambacounda,13.75795,-13.6685,17.5,1.35,2952,Argileux,Urbain lâche,62.7,5565,Aucun,4.9,5
+Z0374,Bakel,Tambacounda,14.9021,-12.43593,11.4,1.14,435,Latéritique,Urbain lâche,62.1,5756,Partiel,4.0,3
+Z0375,Bakel,Tambacounda,14.91573,-12.46508,26.8,4.79,464,Latéritique,Agricole,12.0,77,Partiel,6.3,0
+Z0376,Bakel,Tambacounda,14.89533,-12.44243,31.7,0.82,916,Sableux,Agricole,27.8,165,Partiel,7.0,0
+Z0377,Bakel,Tambacounda,14.89231,-12.46385,24.0,0.98,560,Argileux,Urbain lâche,65.3,9605,Partiel,5.1,1
+Z0378,Bakel,Tambacounda,14.91446,-12.45795,19.6,1.78,217,Hydromorphe,Zone humide (Niayes/bas-fond),25.5,165,Partiel,1.8,2
+Z0379,Bakel,Tambacounda,14.91183,-12.46283,22.5,3.59,339,Hydromorphe,Végétation naturelle,10.0,140,Partiel,6.1,0
+Z0380,Bakel,Tambacounda,14.90185,-12.44901,25.3,0.69,528,Sableux,Agricole,21.0,218,Aucun,5.8,1
+Z0381,Bakel,Tambacounda,14.92015,-12.45263,33.1,2.38,266,Latéritique,Agricole,0.0,179,Partiel,7.8,0
+Z0382,Kédougou,Kédougou,12.54651,-12.20627,93.7,1.2,1212,Argileux,Urbain lâche,54.6,2393,Aucun,18.3,2
+Z0383,Kédougou,Kédougou,12.53722,-12.19014,185.2,0.79,1436,Latéritique,Agricole,8.4,171,Partiel,33.2,0
+Z0384,Kédougou,Kédougou,12.56187,-12.17462,130.2,0.32,612,Latéritique,Agricole,15.3,185,Complet,23.4,0
+Z0385,Kédougou,Kédougou,12.56162,-12.17606,54.3,1.9,1158,Sableux,Urbain lâche,69.6,5872,Partiel,10.1,0
+Z0386,Kédougou,Kédougou,12.57411,-12.17654,87.4,4.44,747,Hydromorphe,Zone humide (Niayes/bas-fond),29.3,181,Complet,0.8,0
+Z0387,Kédougou,Kédougou,12.55235,-12.18298,153.9,3.68,1179,Hydromorphe,Zone humide (Niayes/bas-fond),24.2,297,Complet,0.2,0
+Z0388,Kédougou,Kédougou,12.56133,-12.19252,125.6,0.95,484,Argileux,Urbain lâche,32.1,3662,Aucun,21.1,0
+Z0389,Kédougou,Kédougou,12.55537,-12.18078,115.1,1.96,176,Hydromorphe,Végétation naturelle,0.0,55,Complet,19.4,0
+Z0390,Kédougou,Kédougou,12.53697,-12.18257,108.8,1.85,532,Latéritique,Agricole,4.5,102,Partiel,20.9,0
+Z0391,Kédougou,Kédougou,12.56296,-12.18625,87.8,2.76,1582,Latéritique,Urbain lâche,57.3,6021,Partiel,18.6,1
+Z0392,Kédougou,Kédougou,12.56402,-12.18757,98.3,1.9,548,Argileux,Agricole,1.0,98,Aucun,17.4,0
+Z0393,Matam,Matam,15.65782,-13.26256,12.1,0.58,311,Hydromorphe,Urbain dense,66.0,10296,Aucun,5.0,10
+Z0394,Matam,Matam,15.64477,-13.23488,20.4,0.29,720,Sableux,Agricole,27.4,170,Partiel,4.9,0
+Z0395,Matam,Matam,15.68514,-13.23417,15.5,0.21,621,Argileux,Agricole,19.7,162,Aucun,5.2,4
+Z0396,Matam,Matam,15.67108,-13.26199,15.5,2.27,1756,Hydromorphe,Zone humide (Niayes/bas-fond),36.8,255,Partiel,2.9,1
+Z0397,Matam,Matam,15.65864,-13.26592,20.7,1.01,248,Argilo-sableux,Végétation naturelle,5.7,180,Partiel,6.5,1
+Z0398,Matam,Matam,15.66677,-13.24912,17.0,0.74,339,Argileux,Agricole,24.1,100,Aucun,4.6,0
+Z0399,Matam,Matam,15.644,-13.26633,15.6,0.21,174,Argilo-sableux,Urbain dense,83.2,30189,Partiel,4.1,4
+Z0400,Matam,Matam,15.6879,-13.25252,16.0,0.3,1770,Hydromorphe,Zone humide (Niayes/bas-fond),34.1,253,Partiel,1.3,1
+Z0401,Matam,Matam,15.65685,-13.26943,10.8,0.47,974,Argilo-sableux,Urbain dense,88.1,26513,Aucun,1.8,2
+Z0402,Matam,Matam,15.66414,-13.24303,20.5,1.23,1530,Latéritique,Agricole,18.8,148,Aucun,7.6,0
+Z0403,Matam,Matam,15.66043,-13.25956,14.1,0.69,550,Argileux,Urbain lâche,66.0,2597,Aucun,5.0,5
+Z0404,Fatick,Fatick,14.33406,-16.42893,9.9,0.69,945,Hydromorphe,Végétation naturelle,2.8,256,Partiel,2.3,1
+Z0405,Fatick,Fatick,14.31815,-16.41773,1.6,0.41,123,Hydromorphe,Zone humide (Niayes/bas-fond),14.6,271,Complet,1.9,1
+Z0406,Fatick,Fatick,14.36167,-16.41043,3.3,0.06,1074,Argileux,Urbain dense,73.3,20205,Partiel,,3
+Z0407,Fatick,Fatick,14.31784,-16.43023,7.0,1.4,239,Argilo-sableux,Végétation naturelle,7.1,154,,4.6,0
+Z0408,Fatick,Fatick,14.35984,-16.40424,3.1,1.18,1006,Argilo-sableux,Agricole,7.7,175,Partiel,2.2,1
+Z0409,Fatick,Fatick,14.33231,-16.41748,5.0,0.38,173,Latéritique,Urbain dense,75.6,20510,Aucun,2.1,4
+Z0410,Fatick,Fatick,14.32046,-16.41796,0.5,0.74,1082,Latéritique,Urbain lâche,78.4,5143,Complet,2.5,0
+Z0411,Fatick,Fatick,14.3434,-16.41374,5.4,0.6,336,Sableux,Agricole,0.0,370,Aucun,2.1,0
+Z0412,Fatick,Fatick,14.36007,-16.40632,7.3,0.21,493,Latéritique,Urbain lâche,51.1,4755,Partiel,4.3,0
+Z0413,Louga,Louga,15.60916,-16.21419,35.2,0.45,6440,Hydromorphe,Urbain lâche,39.3,4645,Complet,7.9,0
+Z0414,Louga,Louga,15.61002,-16.21744,0.5,1.22,2981,Latéritique,Urbain lâche,59.6,10683,Complet,1.6,1
+Z0415,Louga,Louga,15.61256,-16.21366,55.6,0.72,36789,Hydromorphe,Zone humide (Niayes/bas-fond),15.6,249,Partiel,,0
+Z0416,Louga,Louga,15.62004,-16.2288,25.8,2.74,20591,Sableux,Urbain lâche,72.6,5721,Aucun,5.3,0
+Z0417,Louga,Louga,15.58093,-16.23327,33.7,3.37,2618,Sableux,Végétation naturelle,0.0,216,Aucun,7.0,0
+Z0418,Louga,Louga,15.62549,-16.23128,37.2,2.65,6320,Hydromorphe,Zone humide (Niayes/bas-fond),29.0,248,Complet,2.7,0
+Z0419,Louga,Louga,15.61227,-16.23354,28.9,1.25,6441,Argilo-sableux,Urbain lâche,40.6,4283,,8.3,0
+Z0420,Louga,Louga,-16.22225,15.62314,13.3,11.5,4813,Sableux,Urbain lâche,57.7,4917,Complet,4.2,0
+Z0421,Louga,Louga,15.59887,-16.20329,34.4,4.18,3999,Latéritique,Urbain lâche,57.7,6376,Partiel,8.1,0
+Z0422,Louga,Louga,15.62546,-16.24378,35.6,0.94,1522,Sableux,Agricole,0.6,96,Partiel,7.7,0
+Z0423,Louga,Louga,-16.20077,15.62736,30.2,3.68,7281,Latéritique,Agricole,0.8,86,Complet,6.6,0
+Z0424,Louga,Louga,15.60086,-16.24068,57.2,1.77,2127,Hydromorphe,Urbain lâche,54.4,9608,Aucun,9.8,0
+Z0425,Louga,Louga,15.62765,-16.21402,-9999.0,1.44,1686,Argilo-sableux,Agricole,8.3,304,Partiel,8.8,0
